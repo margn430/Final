@@ -5,7 +5,7 @@ CartoDB powered map that visualizes NYC's homeless populations in the 5 boroughs
 
 The original data set can be accessed via the NYC open data portal.
 
-Files in the repo represent the javascript, css/markup for a CartoDB wrapper using Leaflet, Stamen and Colorbrewer to presenting the final mapping visualization from NYC data.
+Files in the repo represent the javascript, css/markup for a CartoDB wrapper to presenting the final mapping visualization from NYC data.
 
 Description
 ===========
